@@ -1,3 +1,8 @@
+# Expense Tracker
+Expense tracker, A Simple Expense Tracker Web app built in Vue-js.
+
+It helps you to manage and track your daily income and expenses.
+
 # Setup instruction
 - Step 1: install dependencies/node_module
   - `npm install`
